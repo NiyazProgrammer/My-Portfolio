@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "762145B0-3A20-4518-A366-F2C5821CD0B2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F11212A4-6FC2-44F2-A60B-23F41E9E32A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoMarket/TabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "showTabBarController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51C21329-17A3-49A1-AD2F-8F9F332312AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoMarket/TabBarController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "showTabBarController()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70255DC0-E0D6-4671-8F53-40FD889D131C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoMarket/Cells/CoinsCellTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "configure(coin:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57D5FFB5-1396-4366-B2D2-15E5E1DE972D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoMarket/View/MainPageMarketView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "57D5FFB5-1396-4366-B2D2-15E5E1DE972D - aa982bb64ffbc602"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoMarket.MainPageMarketView.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CryptoMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niyazrizvanov/Swift/GoodProjects/CryptoMarket/CryptoMarket/View/MainPageMarketView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "440">
+               </Location>
+               <Location
+                  uuid = "57D5FFB5-1396-4366-B2D2-15E5E1DE972D - aa982bb64ffbc62d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoMarket.MainPageMarketView.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CryptoMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niyazrizvanov/Swift/GoodProjects/CryptoMarket/CryptoMarket/View/MainPageMarketView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "436">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F8EFB61-ABD5-49AE-A120-4FB50290F7DC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoMarket/View/MainPageMarketView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F8EFB61-ABD5-49AE-A120-4FB50290F7DC - aa982bb64ffbc66f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoMarket.MainPageMarketView.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CryptoMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niyazrizvanov/Swift/GoodProjects/CryptoMarket/CryptoMarket/View/MainPageMarketView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "1452">
+               </Location>
+               <Location
+                  uuid = "2F8EFB61-ABD5-49AE-A120-4FB50290F7DC - aa982bb64ffbc78e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CryptoMarket.MainPageMarketView.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CryptoMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niyazrizvanov/Swift/GoodProjects/CryptoMarket/CryptoMarket/View/MainPageMarketView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "1644">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D4882B8-9F42-4DDF-BEDC-F0FF1100B31E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoMarket/Managers/NetWorkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "obtainCoins()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3D4882B8-9F42-4DDF-BEDC-F0FF1100B31E - 5bff2c3fab5a7c7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CryptoMarket.NetWorkingManager.obtainCoins() async throws -&gt; Swift.Optional&lt;CryptoMarket.Coin&gt;"
+                  moduleName = "CryptoMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niyazrizvanov/Swift/GoodProjects/CryptoMarket/CryptoMarket/Managers/NetWorkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "356">
+               </Location>
+               <Location
+                  uuid = "3D4882B8-9F42-4DDF-BEDC-F0FF1100B31E - bfa4b42b3a76349c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for CryptoMarket.NetWorkingManager.obtainCoins() async throws -&gt; Swift.Optional&lt;CryptoMarket.Coin&gt;"
+                  moduleName = "CryptoMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niyazrizvanov/Swift/GoodProjects/CryptoMarket/CryptoMarket/Managers/NetWorkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "3D4882B8-9F42-4DDF-BEDC-F0FF1100B31E - a67727358fafb9fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CryptoMarket.NetWorkingManager.obtainCoins() async throws -&gt; Swift.Optional&lt;CryptoMarket.Coin&gt;"
+                  moduleName = "CryptoMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niyazrizvanov/Swift/GoodProjects/CryptoMarket/CryptoMarket/Managers/NetWorkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "3D4882B8-9F42-4DDF-BEDC-F0FF1100B31E - 83b325b6919ac7bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CryptoMarket.NetWorkingManager.obtainCoins() async throws -&gt; Swift.Optional&lt;CryptoMarket.Coin&gt;"
+                  moduleName = "CryptoMarket"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/niyazrizvanov/Swift/GoodProjects/CryptoMarket/CryptoMarket/Managers/NetWorkingManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F35891D-DCEE-43CA-A596-9F5F297CA348"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoMarket/Managers/NetWorkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "obtainCoins()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6956CB8C-AF2E-4A5B-B9AB-3F64331DF374"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoMarket/Managers/NetWorkingManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "obtainCoins()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
