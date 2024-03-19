@@ -15,8 +15,8 @@ class MainViewModel {
         }
     }
 
-    func EnumbledUser(isEnumbledUser: Bool) {
-        likeTap = isEnumbledUser
+    func EnumbledUser(isLikeUser: Bool) {
+        likeTap = isLikeUser
     }
 
     func ChangeCurrentUserIndex(for number: Int) {

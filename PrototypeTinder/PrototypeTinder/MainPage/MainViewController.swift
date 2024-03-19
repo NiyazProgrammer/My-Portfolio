@@ -25,9 +25,10 @@ class MainViewController: UIViewController {
 
         mainView.likeTapped = { [weak self] in
             UIView.animate(withDuration: 0.5, animations: {
-                self?.mainView.firstCardUser?.center.x += (self?.mainView.bounds.width)!
+                self?.mainView.firstCardUser?.transform = CGAffineTransform(rotationAngle: CGFloat.pi / 6)
+                self?.mainView.firstCardUser?.center.x += (self?.mainView.bounds.width)! + 150
             }) { [weak self] _ in
-                self?.mainViewModel.EnumbledUser(isEnumbledUser: false)
+                self?.mainViewModel.EnumbledUser(isLikeUser: true)
                 self?.workWithViewsWhenEvaluated()
                 self?.mainView.backButton.isEnabled = true
             }
@@ -35,9 +36,10 @@ class MainViewController: UIViewController {
 
         mainView.dislikeTapped = { [weak self] in
             UIView.animate(withDuration: 0.5, animations: {
-                self?.mainView.firstCardUser?.center.x -= (self?.mainView.bounds.width)!
+                self?.mainView.firstCardUser?.transform = CGAffineTransform(rotationAngle: -(CGFloat.pi / 6))
+                self?.mainView.firstCardUser?.center.x -= (self?.mainView.bounds.width)! + 150
             }) { [weak self] _ in
-                self?.mainViewModel.EnumbledUser(isEnumbledUser: true)
+                self?.mainViewModel.EnumbledUser(isLikeUser: false)
                 self?.workWithViewsWhenEvaluated()
                 self?.mainView.backButton.isEnabled = true
             }
@@ -50,14 +52,16 @@ class MainViewController: UIViewController {
 
             if self?.mainViewModel.likeTap ?? false {
                 UIView.animate(withDuration: 0.5, animations: {
-                    self?.mainView.firstCardUser?.center.x += self?.mainView.bounds.width ?? 0
+                    self?.mainView.firstCardUser?.transform = .identity
+                    self?.mainView.firstCardUser?.center.x -= (self?.mainView.bounds.width ?? 0) + 150
                })
             } else {
                 UIView.animate(withDuration: 0.5, animations: {
-                    self?.mainView.firstCardUser?.center.x -= self?.mainView.bounds.width ?? 0
+                    self?.mainView.firstCardUser?.transform = .identity
+                    self?.mainView.firstCardUser?.center.x += (self?.mainView.bounds.width ?? 0) + 150
                })
             }
-            self?.mainViewModel.EnumbledUser(isEnumbledUser: false)
+            self?.mainViewModel.EnumbledUser(isLikeUser: false)
         }
     }
 
