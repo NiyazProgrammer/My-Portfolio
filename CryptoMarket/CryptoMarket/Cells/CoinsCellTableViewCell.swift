@@ -87,6 +87,4 @@ class CoinsCellTableViewCell: UITableViewCell {
         shortNameCoin.text = coin.CharCode
         priceInfo.text = "\(String(describing: coin.Value)) RUB"
     }
-
-
 }

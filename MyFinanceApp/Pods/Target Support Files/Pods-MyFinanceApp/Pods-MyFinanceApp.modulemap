@@ -1,0 +1,6 @@
+framework module Pods_MyFinanceApp {
+  umbrella header "Pods-MyFinanceApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
