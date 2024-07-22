@@ -62,15 +62,15 @@
 </list>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_1.PNG" width="350">
-    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_2.PNG" width="350">
-    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_3.PNG" width="350">
-    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_4.PNG" width="350">
-    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_5.PNG" width="350">
-    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_6.PNG" width="350">
-    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_7.PNG" width="350">
-    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_8.PNG" width="350">
-    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_9.PNG" width="350">
-    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_10.PNG" width="350">
-    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_11.PNG" width="350">
+    <img src="/Apps%20Images/CatGram/img_1.PNG" width="350">
+    <img src="/Apps%20Images/CatGram/img_2.PNG" width="350">
+    <img src="/Apps%20Images/CatGram/img_3.PNG" width="350">
+    <img src="/Apps%20Images/CatGram/img_4.PNG" width="350">
+    <img src="/Apps%20Images/CatGram/img_5.PNG" width="350">
+    <img src="/Apps%20Images/CatGram/img_6.PNG" width="350">
+    <img src="/Apps%20Images/CatGram/img_7.PNG" width="350">
+    <img src="/Apps%20Images/CatGram/img_8.PNG" width="350">
+    <img src="/Apps%20Images/CatGram/img_9.PNG" width="350">
+    <img src="/Apps%20Images/CatGram/img_10.PNG" width="350">
+    <img src="/Apps%20Images/CatGram/img_11.PNG" width="350">
 </div>
