@@ -36,10 +36,14 @@
 
 ### Приложение PrototypeTinder
 
-![mainPageWoman](/Apps%20Images/PrototypeTinder/MainPageWoman.png)
+<img src="/Apps%20Images/PrototypeTinder/MainPageWoman.png" alt="mainPageWoman" width="350">
 
-![UsersPageWoman](/Apps%20Images/PrototypeTinder/UsersPageWoman.png)
+<img src="/Apps%20Images/PrototypeTinder/UsersPageMan.png" alt="mainPageMan" width="350">
 
-![mainPageMan](/Apps%20Images/PrototypeTinder/MainPageMan.png)
+<img src="/Apps%20Images/PrototypeTinder/MainPageWoman.png" alt="mainPageWoman" width="350">
+
+<img src="/Apps%20Images/PrototypeTinder/UsersPageWoman.png" alt="UsersPageWoman" width="350">
+
+
 
 ![mainPageWoman](/Apps%20Images/PrototypeTinder/UsersPageMan.png)
