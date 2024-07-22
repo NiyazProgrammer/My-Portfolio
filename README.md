@@ -2,6 +2,21 @@
 
 ### Приложение MyFinance
 
+Приложение MyFinance предназначено для отслеживания финансов пользователей. 
+Основные функции:
+<list>
+    <li>Добавление нескольких банковских карт</li>
+    <li>Создание различных дизайнов для карт</li>
+    <li>Список всех транзакций</li>
+    <li>Отсоритированный список транзакций сделанные в разный период времени</li>
+    <li>Анализ транзакций через круговую диаграмму</li>
+    <li>Создание транзакций</li>
+    <li>Сортировка транзакций по категориям</li>
+    <li>Предоставление актуальных курсов валют</li>
+    <li>Создание и настройка своего пользователя</li>
+    <li>Регистрация и авторизация</li>
+    <li>Валидация полей</li>
+</list>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="/Apps%20Images/MyFinanceApp/Снимок%20экрана%202024-06-04%20в%2004.36.58.png" alt="authorization" width="350">
     <img src="/Apps%20Images/MyFinanceApp/Снимок%20экрана%202024-06-04%20в%2004.45.47.png" alt="registration" width="350">
@@ -20,9 +35,42 @@
 
 ### Приложение PrototypeTinder
 
+Простое приложение PrototypeTinder, предназначено для просмотра пользователей, где можно лайкать или пропускать.
+Основные функции:
+<list>
+    <li>Просматривать пользователей</li>
+    <li>Анимированная оценка пользователя</li>
+</list>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="/Apps%20Images/PrototypeTinder/MainPageWoman.png" alt="mainPageWoman" width="350">
     <img src="/Apps%20Images/PrototypeTinder/UsersPageMan.png" alt="mainPageMan" width="350">
     <img src="/Apps%20Images/PrototypeTinder/MainPageWoman.png" alt="mainPageWoman" width="350">
     <img src="/Apps%20Images/PrototypeTinder/UsersPageWoman.png" alt="UsersPageWoman" width="350">
+</div>
+
+### Приложение CatGram
+
+Приложение CatGram это упрощенная социальная сеть, в которой пользователи могут публиковать свои посты, подписываться на друзей и видеть их посты в ленте.
+Основные функции:
+<list>
+    <li>Просматривать посты друзей и свои</li>
+    <li>Анимированые лайки</li>
+    <li>Добавление и удаление постов</li>
+    <li>Добавление и удаление в друзей</li>
+    <li>Регистрация и авторизаций</li>
+    <li>Валидация полей</li>
+</list>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_1.PNG" width="350">
+    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_2.PNG" width="350">
+    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_3.PNG" width="350">
+    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_4.PNG" width="350">
+    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_5.PNG" width="350">
+    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_6.PNG" width="350">
+    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_7.PNG" width="350">
+    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_8.PNG" width="350">
+    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_9.PNG" width="350">
+    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_10.PNG" width="350">
+    <img src="/Users/niyazrizvanov/My-Portfolio/Apps Images/CatGram/img_11.PNG" width="350">
 </div>

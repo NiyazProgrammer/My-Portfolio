@@ -4,6 +4,7 @@ class EnterView: UIView {
     var actionSwitchingRegistrationView: (() -> Void)?
     var actionSendData: ((String, String) -> Void)?
     var actionAlertPresent: ((UIAlertController) -> Void)?
+
     private lazy var logoImage: UIImageView = {
         let logo = UIImageView()
         logo.translatesAutoresizingMaskIntoConstraints = false
@@ -25,7 +26,9 @@ class EnterView: UIView {
         textField.layer.cornerRadius = 4
         textField.leftView = UIView(frame: CGRect(x: 0, y: 0, width: 8, height: 20))
         textField.leftViewMode = .always
+        textField.delegate = self
         textField.translatesAutoresizingMaskIntoConstraints = false
+        textField.returnKeyType = .next
         return textField
     }()
     private lazy var labelPassword: UILabel = {
@@ -44,6 +47,8 @@ class EnterView: UIView {
         textField.leftViewMode = .always
         textField.isSecureTextEntry = true
         textField.translatesAutoresizingMaskIntoConstraints = false
+        textField.returnKeyType = .done
+        textField.delegate = self
         return textField
     }()
     private lazy var buttonEnter: UIButton = { [weak self] in
@@ -164,5 +169,18 @@ class EnterView: UIView {
         let okAction = UIAlertAction(title: "OK", style: .default, handler: nil)
         alertController.addAction(okAction)
         self.actionAlertPresent?(alertController)
+    }
+}
+
+extension EnterView: UITextFieldDelegate {
+    func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        switch textField {
+        case textFieldLogin:
+            textFieldPassword.becomeFirstResponder()
+        case textFieldPassword:
+            textField.resignFirstResponder()
+        default: break
+        }
+        return true
     }
 }
