@@ -1,0 +1,14 @@
+"current_weather_label" = "Текущая погода:";
+"select_language" = "Выберите язык";
+"russian" = "Русский";
+"english" = "Английский";
+"cancel" = "Отмена";
+"choose_weather_animation" = "Выберете погоду";
+"rainy" = "Дождь";
+"sunny" = "Ясно";
+"snowy" = "Снег";
+"rain_thunder" = "Дождь с грозой";
+"partly_cloudy" = "Облачно";
+"language_changed" = "Смена языка применена";
+"app_restart_message" = "Требуется перезагрузить приложение";
+"ok" = "Ок";

@@ -1,0 +1,14 @@
+"current_weather_label" = "Current weather:";
+"select_language" = "Select language";
+"russian" = "Russian";
+"english" = "English";
+"cancel" = "Chanel";
+"choose_weather_animation" = "Choose weather animation";
+"rainy" = "Rainy";
+"sunny" = "Sunny";
+"snowy" = "Snowy";
+"rain_thunder" = "Rain thunder";
+"partly_cloudy" = "Partly cloudy";
+"language_changed" = "Language changed";
+"app_restart_message" = "App restart";
+"ok" = "Ok";
