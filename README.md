@@ -86,10 +86,10 @@ WeatherAnimation представляет из себя приложения с 
 </list>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="/Apps%20Images/WeatherApp/img1.PNG" width="250">
-    <img src="/Apps%20Images/WeatherApp/img2.PNG" width="250">
-    <img src="/Apps%20Images/WeatherApp/img3.PNG" width="250">
-    <img src="/Apps%20Images/WeatherApp/img4.PNG" width="250">
-    <img src="/Apps%20Images/WeatherApp/img5.PNG" width="250">
-    <img src="/Apps%20Images/WeatherApp/img6.PNG" width="250">
+    <img src="/Apps%20Images/WeatherApp/img1.png" width="250">
+    <img src="/Apps%20Images/WeatherApp/img2.png" width="250">
+    <img src="/Apps%20Images/WeatherApp/img3.png" width="250">
+    <img src="/Apps%20Images/WeatherApp/img4.png" width="250">
+    <img src="/Apps%20Images/WeatherApp/img5.png" width="250">
+    <img src="/Apps%20Images/WeatherApp/img6.png" width="250">
 </div>
